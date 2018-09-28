@@ -1,2 +1,4 @@
 # admin_tools
-Admin Tools
+This mod adds admin tools.
+Admin Axe (can delete all)
+
